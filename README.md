@@ -1,4 +1,4 @@
-Electricity Billing System - Tamil Nadu (C Program)
+**Electricity Billing System - Tamil Nadu(in C)**
 
 This project is a C-based electricity billing system that calculates electricity charges based on the Tamil Nadu Electricity Board (TNEB) tariff structure. Users can input the number of units consumed, and the program will generate a detailed bill breakdown, including:
 
